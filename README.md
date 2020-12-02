@@ -19,3 +19,6 @@ Changes:
 | ✅ | [wiki legal entities](https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country "https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country") | |
 | ✅ | [wiki dumps](https://dumps.wikimedia.org/ "https://dumps.wikimedia.org/") | | 
 | ❌ | [YaTranslate API](https://translate.yandex.com "https://translate.yandex.com") | Limits are too tight (10,000,000 characters / month) |
+
+Full list maintained by admins:
+[Google docs](https://docs.google.com/spreadsheets/d/1HVBU35nh8Rrn19hmLDNoh9kJIUlRXLgzo93-BYjqjNM/edit#gid=2007543038)
